@@ -1,0 +1,17 @@
+
+Unit 39. Financial Data Analysis Mini Project
+| Mission
+Samsung Innovation Campus
+Chapter 8. Data Analysis and Visualization - Mini Project
+Mission
+UNIT 39
+Financial Data Analysis Mini Project
+I With the rapid increase in computing speed, mankind has been able to organize and analyze large amounts of data that have never been experienced before at incredibly high speed.
+I Based on that, it is possible for computers to be learned and be developed to the current status of artificial intelligence.
+I Even if you do not become a software engineer, you can solve many practical problems that you may see in the real world through the data processing skills you have learned so far using Python and especially Pandas.
+Pandas, a core library of data analysis applied in various fields, was originally developed to analyze and organize financial data.
+The core of data analysis is financial data analysis. Through the practice of acquiring and processing financial data of various factors accumulated over a period of time, you can be sufficiently prepared for most data types that you will see in real-world work.
+Financial data analysis is the most effective practice in data analysis.
+Data Analysis and visualization-Mini Project
+Fin
+No
